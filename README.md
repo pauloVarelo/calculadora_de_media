@@ -1,2 +1,2 @@
-# calculadora_de_media
-Programa para calcular media
+# Calculadora de media
+Este programa calcula a media das 3 notas do aluno
